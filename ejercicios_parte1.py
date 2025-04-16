@@ -8,10 +8,8 @@ Linea3 = "The fire's in their eyes and their words are really clear"
 Linea4 = "So beat it, just beat it"
 Linea5 = "Hola, buenas tardes"
 
-print(f"Hola, Me llamó {Nombre} y tengo \n{Edad} Años")
-print("hola, me llamo", Nombre)
-print("Y tengo",Edad, "años")
-print(f"Mi canción favorita es {Cancion_Favorita}")
+print(f"Hola, Me llamó {Nombre} y tengo \n{Edad} Años.")
+print(f"Mi canción favorita es {Cancion_Favorita}.")
 print("")
 print("\   /")
 print("O   O")
@@ -24,12 +22,9 @@ print("3")
 print("2")
 print("1")
 print("Y Fuera¡")
-print("")
-print("")
 
 print(Linea1)
 print(Linea2)
 print(Linea3)
 print(Linea4)
 print(Linea5)
-
